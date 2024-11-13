@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="perfomance">
+    <output-path>$PROJECT_DIR$/out/artifacts/perfomance</output-path>
+    <root id="archive" name="skiplist.jar">
+      <element id="module-output" name="skiplist" />
+    </root>
+  </artifact>
+</component>
